@@ -1,0 +1,15 @@
+.complete-box {
+    width: 30%;
+    margin-bottom: 1em;
+    padding: 1em;
+    border: 1px solid #aaa;
+}
+
+.unselected-item {
+    background-color: #fff;
+    color: #000;
+}
+.selected-item {
+    background-color: #009;
+    color: #fff;
+}
